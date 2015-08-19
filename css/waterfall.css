@@ -1,0 +1,16 @@
+﻿.container {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    -webkit-column-gap: 5px;
+    -moz-column-gap: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+
+/*数据块 砖块*/
+
+.container div {
+    width: 100%;
+    padding:10px;
+}
